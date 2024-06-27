@@ -177,8 +177,4 @@ Este proyecto proporciona una metodología completa para la limpieza, transforma
 
 ## Contacto
 
-Para más información, puedes contactarme en: [tu email].
-
----
-
-Este README proporciona una guía completa para entender y ejecutar el código del proyecto. Asegúrate de ajustar las rutas de los archivos y otros parámetros según tus necesidades específicas.
+Para más información, puedes contactarme en: rmaciasb@unal.edu.co.
